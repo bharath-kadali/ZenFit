@@ -1,4 +1,4 @@
-A modern, responsive fitness application built with React.js, designed to help users discover and explore a wide range of exercises. The app integrates external APIs to provide detailed exercise information and related video content, offering an engaging user experience.​
+A modern, responsive fitness application built with React.js, designed to help users discover and explore a wide range of exercises. The app integrates external APIs to provide detailed exercise information and related video content, offering an engaging user experience.​ This app was made with help from a tutorial in youtube. Also thanks to adrian from JSMastery.
 
 Features :
 
